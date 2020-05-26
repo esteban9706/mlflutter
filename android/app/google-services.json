@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "79552170812",
+    "firebase_url": "https://otrouber-4bcc2.firebaseio.com",
+    "project_id": "otrouber-4bcc2",
+    "storage_bucket": "otrouber-4bcc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79552170812:android:34d1ee3e315c9ca99bec39",
+        "android_client_info": {
+          "package_name": "com.example.mlflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79552170812-87kmbr7n95qnju8or4tu1uef4pndfi13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqMgzn9w8qZ0zflv_MCNz5Wl9J7mbs9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79552170812-87kmbr7n95qnju8or4tu1uef4pndfi13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79552170812:android:11832923635977789bec39",
+        "android_client_info": {
+          "package_name": "com.example.otrouber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79552170812-312ek5memsq19te3egmlp1epr6ipac8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otrouber",
+            "certificate_hash": "7bae39b72f811284cc936d5b34a36053d9d1ffae"
+          }
+        },
+        {
+          "client_id": "79552170812-87kmbr7n95qnju8or4tu1uef4pndfi13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqMgzn9w8qZ0zflv_MCNz5Wl9J7mbs9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79552170812-87kmbr7n95qnju8or4tu1uef4pndfi13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79552170812:android:c8d7e3f6b2f556049bec39",
+        "android_client_info": {
+          "package_name": "edu.daec.otrouber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79552170812-d82bcdf1toukrlm9vb181487bv20sns3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.daec.otrouber",
+            "certificate_hash": "7bae39b72f811284cc936d5b34a36053d9d1ffae"
+          }
+        },
+        {
+          "client_id": "79552170812-87kmbr7n95qnju8or4tu1uef4pndfi13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqMgzn9w8qZ0zflv_MCNz5Wl9J7mbs9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79552170812-87kmbr7n95qnju8or4tu1uef4pndfi13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
